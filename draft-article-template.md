@@ -6,7 +6,7 @@
 
 The principal law governing a company registration in Nigeria is the Companies and Allied Matters Act (CAMA), while the government agency in charge of registering a company in Nigeria is the Corporate Affairs Commission (CAC).
 
-![Registering a Business](C:\Users\hp\Desktop\Data Annotation\financial wit 2.jpg)
+![Registering a Business](https://github.com/aw-content/registering-a-business/blob/main/images/financial%20wit%202.jpg)
 
 Business name registration has become easy and convenient for small businesses in Nigeria. The procedure for registering a business name is less tasking compared to when registering a company in Nigeria. The advantages of registering a business name include simplicity in registration, and affordability, as there is no need to pay stamp duty.
 
